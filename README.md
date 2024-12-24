@@ -127,6 +127,7 @@ These are my frequently used frameworks.
 ![kafka](https://img.shields.io/badge/-Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![hadoop](https://img.shields.io/badge/-Hadoop-black?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![spark](https://img.shields.io/badge/-Spark-black?style=for-the-badge&logo=apachespark&logoColor=white)
+![chrome](https://img.shields.io/badge/-Chrome-black?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![firefox](https://img.shields.io/badge/-FireFox-black?style=for-the-badge&logo=firefox&logoColor=white)
 ![jekyll](https://img.shields.io/badge/-Jekyll-black?style=for-the-badge&logo=jekyll&logoColor=white)
 ![hugo](https://img.shields.io/badge/-HUGO-black?style=for-the-badge&logo=hugo&logoColor=white)
