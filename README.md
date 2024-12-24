@@ -135,6 +135,7 @@ These are my frequently used frameworks.
 ![wsl](https://img.shields.io/badge/-WSL-black?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![windowsterminal](https://img.shields.io/badge/-Windows_Terminal-black?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![obs](https://img.shields.io/badge/-OBS-black?style=for-the-badge&logo=obsstudio&logoColor=white)
+![live](https://img.shields.io/badge/-Live-black?style=for-the-badge&logo=twitch&logoColor=white)
 
 ## Stats
 
