@@ -143,8 +143,8 @@ These are my frequently used frameworks.
 
 I joined GitHub for 5 years, and these are my GitHub stats.
 
-![](https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/main/generated/overview.svg)
+![](https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/main/generated/languages.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=GalacticDevOps&hide=contribs)
 
