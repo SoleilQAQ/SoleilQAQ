@@ -1,8 +1,13 @@
 ### Hi there, I'm [Soleil!](https://c.lingluan5210.top/) 👋
 
-## Skills 🚀
+![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 
-### OS
+![rhce](https://img.shields.io/badge/-RHCE-red?style=for-the-badge&logo=redhat&logoColor=white)
+![hcia](https://img.shields.io/badge/-HCA-red?style=for-the-badge&logo=huawei&logoColor=white)
+
+## 🚀 Skills 
+
+### ⚡ Platforms
 
 I have been using Windows for 17 years, and favourite Windows11, but I like using ArchLinux in the development environment.
 
