@@ -532,8 +532,6 @@ async def main() -> None:
     """
     access_token = os.getenv("ACCESS_TOKEN")
     user = os.getenv("GITHUB_ACTOR")
-    print(access_token)
-    print(user)
     if access_token is None or user is None:
         raise RuntimeError(
             "ACCESS_TOKEN and GITHUB_ACTOR environment variables cannot be None!"
