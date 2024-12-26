@@ -1,5 +1,9 @@
 ### Hi there, I'm [Soleil!](https://galacticdevops.github.io/) 👋
 
+## 🌌 Tech Explorer's Atlas
+
+In this interstellar world built of code, I am a constantly exploring technology traveler, dedicated to finding innovations and breakthroughs in the vast universe of computer science.
+
 ![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 
 ![rhce](https://img.shields.io/badge/-RHCE-red?style=for-the-badge&logo=redhat&logoColor=white)
@@ -142,19 +146,37 @@ These are my frequently used frameworks.
 ![obs](https://img.shields.io/badge/-OBS-black?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![live](https://img.shields.io/badge/-Live-black?style=for-the-badge&logo=twitch&logoColor=white)
 
-## Stats
+## 🎯 Stats
 
 ### GitHub
 
 I joined GitHub for 5 years, and these are my GitHub stats.
+
+<div align="center">
 
 ![](https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/main/generated/overview.svg)
 ![](https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/main/generated/languages.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=GalacticDevOps&hide=contribs)
 
+</div>
+
 ### Wakatime
 
+<div align="center">
+  
 [![wakatime](https://wakatime.com/badge/user/412361d6-a6f7-48eb-a17f-44c45f86f212.svg?style=for-the-badge)](https://wakatime.com/@412361d6-a6f7-48eb-a17f-44c45f86f212)
 
 ![Soleil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GalacticDevOps&range=last_7_days&layout=compact)
+
+</div>
+
+### 🌟 Motto
+
+> Explore in the stars of code, innovate in the galaxy of technology.
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=GalacticDevOps&column=5)
+
+</div>
