@@ -1,10 +1,12 @@
 ### Hi there, I'm [Soleil!](https://galacticdevops.github.io/) 👋
 
+![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
+
 ## 🌌 Tech Explorer's Atlas
 
 In this interstellar world built of code, I am a constantly exploring technology traveler, dedicated to finding innovations and breakthroughs in the vast universe of computer science.
 
-![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
+## 🎓 Certifications
 
 ![rhce](https://img.shields.io/badge/-RHCE-red?style=for-the-badge&logo=redhat&logoColor=white)
 ![hcia](https://img.shields.io/badge/-HCA-red?style=for-the-badge&logo=huawei&logoColor=white)
