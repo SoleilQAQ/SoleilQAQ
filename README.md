@@ -9,7 +9,8 @@ In this interstellar world built of code, I am a constantly exploring technology
 ## 🎓 Certifications
 
 ![rhce](https://img.shields.io/badge/-RHCE-red?style=for-the-badge&logo=redhat&logoColor=white)
-![hcia](https://img.shields.io/badge/-HCA-red?style=for-the-badge&logo=huawei&logoColor=white)
+![hcia](https://img.shields.io/badge/-HCIA-red?style=for-the-badge&logo=huawei&logoColor=white)
+![aca](https://img.shields.io/badge/-ACA-red?style=for-the-badge&logo=alibaba&logoColor=white)
 
 ## 🚀 Skills 
 
