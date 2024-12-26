@@ -1,4 +1,4 @@
-### Hi there, I'm [Soleil!](https://c.lingluan5210.top/) 👋
+### Hi there, I'm [Soleil!](https://galacticdevops.github.io/) 👋
 
 ![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 
