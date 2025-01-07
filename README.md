@@ -182,4 +182,9 @@ I joined GitHub for 5 years, and these are my GitHub stats.
   
 ![](https://github-profile-trophy.vercel.app/?username=GalacticDevOps&column=5)
 
+---
+![GalacticDevOps Counter](https://count.getloli.com/get/@GalacticDevOps?theme=booru-r6gdrawfriends)
+<!-- repo:https://github.com/journey-ad/Moe-counter -->
+---
+
 </div>
