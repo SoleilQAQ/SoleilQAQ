@@ -1,6 +1,6 @@
-### Hi there, I'm [Soleil!](https://galacticdevops.github.io/) 👋
+[![Soleil!](hi.svg)](https://galacticdevops.github.io/)
 
-![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
+![Major](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 
 ## 🌌 Tech Explorer's Atlas
 

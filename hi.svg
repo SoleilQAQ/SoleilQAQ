@@ -1,0 +1,75 @@
+<svg fill="none" viewBox="0 0 880 100" width="880" height="100"
+	xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+
+				@keyframes fadeIn {
+					0% {
+						opacity: 0;
+					}
+					66% {
+						opacity: 0;
+					}
+					100% {
+						opacity: 1;
+					}
+				}
+
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					margin: 0;
+				  text-align: center;
+					width: 100%;
+					height: 100px;
+					background: linear-gradient(-45deg, #7539e9,#4bd87f, #f35f41, #173bea);
+					background-size: 600% 400%;
+					animation: gradientBackground 20s ease infinite;
+					border-radius: 8px;
+					color: white;
+				}
+
+				h1 {
+					font-size: 40px;
+					line-height: 1;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+					text-shadow:
+						0 1px 0 rgba(0, 0, 0, 0.1),
+						0 2px 0 rgba(0, 0, 0, 0.1),
+						0 3px 0 rgba(0, 0, 0, 0.1),
+						0 4px 0 rgba(0, 0, 0, 0.1),
+						0 8px 3px rgba(0, 0, 0, 0.1);
+					animation: rotate ease-in-out 1s infinite alternate;
+				}
+
+			</style>
+			<div class="container">
+				<h1 id="hello-world-i-m-tris-"> Hi there, I'm Soleil! 👋</h1>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
