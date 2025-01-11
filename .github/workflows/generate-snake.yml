@@ -1,6 +1,8 @@
 name: Generate Snake
 
 on:
+  push:
+    branches: [ main ]
   schedule:
     - cron: "0 */12 * * *"  # 每12小时运行一次
   workflow_dispatch:
