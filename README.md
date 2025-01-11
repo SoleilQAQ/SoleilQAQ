@@ -178,10 +178,24 @@ I joined GitHub for 5 years, and these are my GitHub stats.
 
 > Explore in the stars of code, innovate in the galaxy of technology.
 
+<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> GitHub Trophies<sup><sup>⭐</sup></sup></h3>
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=GalacticDevOps&column=5)
+  <img src="https://github-profile-trophy.vercel.app/?username=GalacticDevOps&theme=flat&column=5&margin-w=10" alt="GitHub Trophies" />
+</div>
+<div align="center">
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GalacticDevOps&theme=minimal" border-radius="15">
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+  
 ---
 ![GalacticDevOps Counter](https://count.getloli.com/get/@GalacticDevOps?theme=booru-r6gdrawfriends)
 <!-- repo:https://github.com/journey-ad/Moe-counter -->
