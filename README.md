@@ -135,6 +135,7 @@ These are my frequently used frameworks.
 ![gitee](https://img.shields.io/badge/-Gitee-black?style=for-the-badge&logo=gitee&logoColor=white)
 ![jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=white)
 ![electron](https://img.shields.io/badge/-Electron-black?style=for-the-badge&logo=electron&logoColor=white)
+![tauri](https://img.shields.io/badge/-Tauri-black?style=for-the-badge&logo=tauri&logoColor=white)
 ![express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express&logoColor=white)
 ![ansible](https://img.shields.io/badge/-Ansible-black?style=for-the-badge&logo=ansible&logoColor=white)
 ![jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=jenkins&logoColor=white)
