@@ -217,3 +217,7 @@ I joined GitHub for 5 years, and these are my GitHub stats.
 ---
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&fontColor=5cb3cc&animation=fadeIn&textBg=false&fontAlign=39&fontAlignY=85&fontSize=24&section=footer&reversal=false" width="100%"/>
+</div>
