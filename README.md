@@ -8,10 +8,9 @@ In this interstellar world built of code, I am a constantly exploring technology
 
 ## 🎓 Certifications
 
-![rhce](https://img.shields.io/badge/-RHCA-red?style=for-the-badge&logo=redhat&logoColor=white)
-![hcia](https://img.shields.io/badge/-HCIE-red?style=for-the-badge&logo=huawei&logoColor=white)
+![rhce](https://img.shields.io/badge/-RHCE-red?style=for-the-badge&logo=redhat&logoColor=white)
+![hcia](https://img.shields.io/badge/-HCIA-red?style=for-the-badge&logo=huawei&logoColor=white)
 ![aca](https://img.shields.io/badge/-ACP-red?style=for-the-badge&logo=alibaba&logoColor=white)
-![pmp](https://img.shields.io/badge/-PMP-red?style=for-the-badge)
 ![sar](https://img.shields.io/badge/-SAr-red?style=for-the-badge)
 ![sd](https://img.shields.io/badge/-SD-red?style=for-the-badge)
 
