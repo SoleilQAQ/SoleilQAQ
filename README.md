@@ -1,4 +1,4 @@
-[![Soleil!](hi.svg)](https://galacticdevops.github.io/)
+[![Soleil!](hi.svg)](https://SoleilQAQ.github.io/)
 
 ![Major](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 
@@ -174,10 +174,10 @@ I joined GitHub for 5 years, and these are my GitHub stats.
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/main/generated/overview.svg)
-![](https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/main/generated/languages.svg)
+![](https://raw.githubusercontent.com/SoleilQAQ/SoleilQAQ/main/generated/overview.svg)
+![](https://raw.githubusercontent.com/SoleilQAQ/SoleilQAQ/main/generated/languages.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=GalacticDevOps&hide=contribs)
+![](https://github-readme-stats.vercel.app/api?username=SoleilQAQ&hide=contribs)
 
 </div>
 
@@ -187,7 +187,7 @@ I joined GitHub for 5 years, and these are my GitHub stats.
   
 [![wakatime](https://wakatime.com/badge/user/412361d6-a6f7-48eb-a17f-44c45f86f212.svg?style=for-the-badge)](https://wakatime.com/@412361d6-a6f7-48eb-a17f-44c45f86f212)
 
-![Soleil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GalacticDevOps&range=last_7_days&layout=compact)
+![Soleil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SoleilQAQ&range=last_7_days&layout=compact)
 
 </div>
 
@@ -197,24 +197,24 @@ I joined GitHub for 5 years, and these are my GitHub stats.
 
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> GitHub Trophies<sup><sup>⭐</sup></sup></h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GalacticDevOps&theme=flat&column=5&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SoleilQAQ&theme=flat&column=5&margin-w=10" alt="GitHub Trophies" />
 </div>
 <div align="center">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GalacticDevOps&theme=minimal" border-radius="15">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoleilQAQ&theme=minimal" border-radius="15">
 </div>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GalacticDevOps/GalacticDevOps/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoleilQAQ/SoleilQAQ/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoleilQAQ/SoleilQAQ/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SoleilQAQ/SoleilQAQ/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
   
 ---
-![GalacticDevOps Counter](https://count.getloli.com/get/@GalacticDevOps?theme=booru-r6gdrawfriends)
+![SoleilQAQ Counter](https://count.getloli.com/get/@SoleilQAQ?theme=booru-r6gdrawfriends)
 <!-- repo:https://github.com/journey-ad/Moe-counter -->
 ---
 
