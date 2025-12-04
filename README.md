@@ -187,7 +187,7 @@ I joined GitHub for 5 years, and these are my GitHub stats.
   
 [![wakatime](https://wakatime.com/badge/user/412361d6-a6f7-48eb-a17f-44c45f86f212.svg?style=for-the-badge)](https://wakatime.com/@412361d6-a6f7-48eb-a17f-44c45f86f212)
 
-![Soleil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SoleilQAQ&range=last_7_days&layout=compact)
+![Soleil's wakatime stats](https://github-readme-stats-sigma-amber-52.vercel.app/api?username=SoleilQAQ&range=last_7_days&layout=compact)
 
 </div>
 
@@ -197,13 +197,9 @@ I joined GitHub for 5 years, and these are my GitHub stats.
 
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> GitHub Trophies<sup><sup>⭐</sup></sup></h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoleilQAQ&theme=flat&column=5&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-swart.vercel.app/?username=SoleilQAQ&theme=flat&column=5&margin-w=10" alt="GitHub Trophies" />
 </div>
 <div align="center">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoleilQAQ&theme=minimal" border-radius="15">
-</div>
 
 <div align="center">
 <picture>
