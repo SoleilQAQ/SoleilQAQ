@@ -174,10 +174,9 @@ I joined GitHub for 5 years, and these are my GitHub stats.
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/SoleilQAQ/SoleilQAQ/main/generated/overview.svg)
 ![](https://raw.githubusercontent.com/SoleilQAQ/SoleilQAQ/main/generated/languages.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=SoleilQAQ&hide=contribs)
+![](https://github-readme-stats-sigma-amber-52.vercel.app/api?username=SoleilQAQ&layout=compact&hide=contribs)
 
 </div>
 
@@ -186,8 +185,6 @@ I joined GitHub for 5 years, and these are my GitHub stats.
 <div align="center">
   
 [![wakatime](https://wakatime.com/badge/user/412361d6-a6f7-48eb-a17f-44c45f86f212.svg?style=for-the-badge)](https://wakatime.com/@412361d6-a6f7-48eb-a17f-44c45f86f212)
-
-![Soleil's wakatime stats](https://github-readme-stats-sigma-amber-52.vercel.app/api?username=SoleilQAQ&range=last_7_days&layout=compact)
 
 </div>
 
